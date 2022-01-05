@@ -1,0 +1,5 @@
+First create a min priority queue of size 10 and insert first 10 numbers. 
+Then iterate a loop for the remaining numbers and for each number see wether it is greater than
+the top element of priority queue or not. If the number is greater than the top element
+pop the top element and insert this element. After the completition of the for loop the priority queue contains
+the result.
